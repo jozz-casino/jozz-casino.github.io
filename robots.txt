@@ -1,0 +1,5 @@
+User-agent: *
+Allow: *
+Disallow: /goto/
+Sitemap: https://jozz-casino.github.io/sitemap.xml
+Host: jozz-casino.github.io
